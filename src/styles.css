@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display:400,400i,500,500i,700,700i,900,900i|Red+Hat+Text:400,400i,500,500i,700,700i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Vollkorn:400,400i,600,600i,700,700i,900,900i&display=swap");
+
+:root {
+  overflow: hidden;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+svg.lexicon-icon {
+  height: 1.25rem;
+  height: 1.25rem;
+}
+
+#Page svg.lexicon-icon {
+  margin: 8px;
+}
+
+.__react_component_tooltip:before,
+.__react_component_tooltip:after {
+  content: unset;
+}
+
+.__react_component_tooltip {
+  padding: 8px 12px;
+}
+
+.__react_component_tooltip p {
+  margin: 0;
+}
+
+.popup-content {
+  top: calc(100% + 12px) !important;
+  padding: 0 4px !important;
+  margin: 0 1rem !important;
+  height: 40px !important;
+  width: auto !important;
+}
+
+.popup-overlay {
+  background: inherit !important;
+}
+
+#drawerPortal {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.outlinedElement {
+  outline: 3px dotted rgba(0, 0, 0, 0.35);
+}

@@ -1,0 +1,35 @@
+    {
+      isOrganic: true,
+      isNoSugarAdded: true,
+      isUncured: true,
+      isSmoked: true,
+      isVegetarianFed: true,
+      isRaisedWithoutAntibiotics: true,
+      isRaisedHumanely: true,
+      isGlutenFree: true,
+      isLactosFree: true,
+      isSoyFree: true,
+      isPaleoFriendly: true,
+      isMsgFree: true,
+
+      namePrefix: "Organic No Sugar Added",
+      mainName: "Uncured Smoked Bacon",
+      type: "Bacon",
+
+      description:
+        "Our Organic No Sugar Added Uncured Smoked Bacon is made from pork that is humanely raised without the use of antibiotics or growth stimulants and fed no animal by-products. Minimally processed, no preservatives, no added nitrates or nitrites, no gluten, no lactose, no MSG, and NO sweeteners!",
+      yummyImageUrl:
+        "https://pedersonsfarms.com/wp-content/uploads/2019/09/Organic-Bacon.jpg",
+      productImageUrl:
+        "https://mk0pedersonsfarpq8ip.kinstacdn.com/wp-content/uploads/2019/09/Uncured-No-Sugar-Added-Hickory-Smoked-Bacon-Web-copy.png",
+      nutritionFactsImageUrl:
+        "https://mk0pedersonsfarpq8ip.kinstacdn.com/wp-content/uploads/2019/09/6014-Organic-No-Sugar-Added-Uncured-Smoked-Bacon-NFP.jpg",
+
+      ingredientsList: [
+        "ORGANIC PORK",
+        "WATER",
+        "VINEGAR (MADE WITH ORGANIC INGREDIENTS)",
+        "SALT",
+        "CELERY POWDER"
+      ]
+    },
